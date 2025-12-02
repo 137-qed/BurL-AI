@@ -1,2 +1,2 @@
 # BurL AI
-A web-based agentic enviornment.
+An offline agentic environment for every type of AI models
